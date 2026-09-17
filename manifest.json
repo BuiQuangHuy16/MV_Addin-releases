@@ -1,0 +1,49 @@
+{
+  "schema": 1,
+  "latest": "1.4.1",
+  "released": "2026-09-17",
+  "mandatory": false,
+  "notesUrl": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/tag/v1.4.1",
+  "packages": {
+    "2020": {
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.4.1/MV_Addin-1.4.1-R20.zip",
+      "sha256": "d6fe8e4b94f5965bb46336d40af29ccf33165adfa460d7ccbe0a07692c537c28",
+      "size": 8283123
+    },
+    "2021": {
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.4.1/MV_Addin-1.4.1-R21.zip",
+      "sha256": "89e3a3739fd0eadca8e009d94a228546a29a285e5acedf09550dba9426064841",
+      "size": 8091607
+    },
+    "2022": {
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.4.1/MV_Addin-1.4.1-R22.zip",
+      "sha256": "f8ed0f7f918ef0342bd4641ad37e3acb62f37f3aa2d807b3b206bfa1cfe7c7f0",
+      "size": 8094157
+    },
+    "2023": {
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.4.1/MV_Addin-1.4.1-R23.zip",
+      "sha256": "18b69dc937f99f604749b35be48cb794d07d1ae370f96e34452a0d44edab100e",
+      "size": 8094502
+    },
+    "2024": {
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.4.1/MV_Addin-1.4.1-R24.zip",
+      "sha256": "7f010e51b38781191123a9e69286386df17c29f2509842a957eb48cba05978df",
+      "size": 8095999
+    },
+    "2025": {
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.4.1/MV_Addin-1.4.1-R25.zip",
+      "sha256": "6b56a3400150757565b53289ba14100bd97e6d08b66e67ea40774905f403cbab",
+      "size": 7644613
+    },
+    "2026": {
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.4.1/MV_Addin-1.4.1-R26.zip",
+      "sha256": "84874cc5ef2b6fcdd8fa5ae087354c8866664e8a25aac4a3465badea12079190",
+      "size": 7647694
+    },
+    "2027": {
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.4.1/MV_Addin-1.4.1-R27.zip",
+      "sha256": "52823ef2e40a2e245ed3ec67edb5922dd9ee0259c8e9e2c400e151827385ab84",
+      "size": 7551332
+    }
+  }
+}
