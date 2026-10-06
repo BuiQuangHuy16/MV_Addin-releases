@@ -1,49 +1,49 @@
 {
   "schema": 1,
-  "latest": "1.6.0",
+  "latest": "1.7.0",
   "released": "2026-10-06",
   "mandatory": false,
-  "notesUrl": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/tag/v1.6.0",
+  "notesUrl": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/tag/v1.7.0",
   "packages": {
     "2020": {
-      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.6.0/MV_Addin-1.6.0-R20.zip",
-      "sha256": "331d45b621462b576a82bc81afab2e7b4cd33b1abf628937a111631cc2755ad4",
-      "size": 8400202
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.7.0/MV_Addin-1.7.0-R20.zip",
+      "sha256": "628fe498b7aad304f18b0e123311e8f4c2393ecb05459f807af7fbc0edb38e9e",
+      "size": 8420306
     },
     "2021": {
-      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.6.0/MV_Addin-1.6.0-R21.zip",
-      "sha256": "c9e23e255a7099682b03cedca7c1683d9bfeacdee66408ca2f335a8d5ab22141",
-      "size": 8208116
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.7.0/MV_Addin-1.7.0-R21.zip",
+      "sha256": "3807ecfd2653fcdbe4cda70302bf3220d3a7e1bc119fcbf3980141f45ad55f34",
+      "size": 8228158
     },
     "2022": {
-      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.6.0/MV_Addin-1.6.0-R22.zip",
-      "sha256": "9b9b110c79daa1fbb012498f2ee466844617626102980878c26efc6ef4c0df73",
-      "size": 8211042
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.7.0/MV_Addin-1.7.0-R22.zip",
+      "sha256": "1bfd0d6f9ab220f3a007231b35d1f7f32692979dea857b47946927f5d10d5e0f",
+      "size": 8230816
     },
     "2023": {
-      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.6.0/MV_Addin-1.6.0-R23.zip",
-      "sha256": "84ff7f2fb933c990cb1887752157754d7c5345c66182b33604079e27a583d817",
-      "size": 8211443
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.7.0/MV_Addin-1.7.0-R23.zip",
+      "sha256": "c0230edd501c33fc55a45af4a589fdd333b11fbde1ed76d0f5c565129d484437",
+      "size": 8231640
     },
     "2024": {
-      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.6.0/MV_Addin-1.6.0-R24.zip",
-      "sha256": "0e89d731dd8444b015308aecacc1dcc7993bb76cf465cfe3b5e263abd8f93b9e",
-      "size": 8213190
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.7.0/MV_Addin-1.7.0-R24.zip",
+      "sha256": "08c7eb5858a285e627264a616866af8109efcc2295e83aced5051915f96fc270",
+      "size": 8233193
     },
     "2025": {
-      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.6.0/MV_Addin-1.6.0-R25.zip",
-      "sha256": "dd7f1f21fd2e4ab4b22e5ab6edc77db9c1c190e135494ab3b5094c9e64cf5c89",
-      "size": 7767203
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.7.0/MV_Addin-1.7.0-R25.zip",
+      "sha256": "976117eb9dffb381f45fdb1646b174a7928d9951d867111616a0a51fb44b6fb5",
+      "size": 7790978
     },
     "2026": {
-      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.6.0/MV_Addin-1.6.0-R26.zip",
-      "sha256": "b1018427c6d1539edded1ea0337c588d1f331d3faed8c19fd7ad03d6e478e521",
-      "size": 7769416
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.7.0/MV_Addin-1.7.0-R26.zip",
+      "sha256": "504498fbc98e2ced309cc86c0586e2b6ba0b7bbec6ee7319fbd740c170f1c3c8",
+      "size": 7793767
     },
     "2027": {
-      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.6.0/MV_Addin-1.6.0-R27.zip",
-      "sha256": "767030e66fe67f99667b1ff462e388d3e6d81d107fe1d1243e1cb41e34d66d38",
-      "size": 7665310
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.7.0/MV_Addin-1.7.0-R27.zip",
+      "sha256": "dcf3c47b00342e3e6f14944298c2d9ea756c969d7d7e56388dbddcb344431f65",
+      "size": 7685299
     }
   }
 }
