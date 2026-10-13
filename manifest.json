@@ -1,49 +1,49 @@
 {
   "schema": 1,
-  "latest": "1.8.0",
-  "released": "2026-10-07",
+  "latest": "1.9.0",
+  "released": "2026-10-13",
   "mandatory": false,
-  "notesUrl": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/tag/v1.8.0",
+  "notesUrl": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/tag/v1.9.0",
   "packages": {
     "2020": {
-      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.8.0/MV_Addin-1.8.0-R20.zip",
-      "sha256": "bd03273540c19160effc4ec63ed5da54399d038c408e954ba231fe3df51aa614",
-      "size": 8438737
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.9.0/MV_Addin-1.9.0-R20.zip",
+      "sha256": "a4d9c308689b9d88ab5883eb4aeee3a7d613464c50435251e52d726a569d7373",
+      "size": 8673583
     },
     "2021": {
-      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.8.0/MV_Addin-1.8.0-R21.zip",
-      "sha256": "4c4daace6916e7278d989cc6fa6379b47cd2e8bd65a5924d096c83cfe1b8a420",
-      "size": 8252596
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.9.0/MV_Addin-1.9.0-R21.zip",
+      "sha256": "6331cadb90702b75ed78ff70becebee3bc7b08ec234662bd0a3a6370cc1ad198",
+      "size": 8484979
     },
     "2022": {
-      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.8.0/MV_Addin-1.8.0-R22.zip",
-      "sha256": "a77458df43aeae9b6aa10e79cce2e6a9c532a94405cc0c7e0f07b818c9d022a5",
-      "size": 8254911
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.9.0/MV_Addin-1.9.0-R22.zip",
+      "sha256": "1ee33285c5eb1c0a0bc7c44449056b63f9364eca693c1cddd5e3e1b812abffff",
+      "size": 8487625
     },
     "2023": {
-      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.8.0/MV_Addin-1.8.0-R23.zip",
-      "sha256": "d77f07af8bc4eef55decbeb30f80794523a92fd2a137bd2066131d6fb8e3b5da",
-      "size": 8255876
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.9.0/MV_Addin-1.9.0-R23.zip",
+      "sha256": "1f71075a63f2489b8a6cd60102f44fda1e112cdf437de39709018c33a76b1e37",
+      "size": 8488093
     },
     "2024": {
-      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.8.0/MV_Addin-1.8.0-R24.zip",
-      "sha256": "4352d3a74f1cef5d86051770646f2910f85e639f65312eabbe0ea5ff3b4deca0",
-      "size": 8257246
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.9.0/MV_Addin-1.9.0-R24.zip",
+      "sha256": "77daf3f6bd742d19ec662557bd66ff5218af9454a735194fee1aea8a8e359339",
+      "size": 8489445
     },
     "2025": {
-      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.8.0/MV_Addin-1.8.0-R25.zip",
-      "sha256": "b29575335becaf13e1ea63d70389530d34f6135106636ff36916b66c53e2674c",
-      "size": 7810611
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.9.0/MV_Addin-1.9.0-R25.zip",
+      "sha256": "42c7f0b166c20400715f860df56a70eec844bbbaf6d8336266e7cb79056ad1cb",
+      "size": 8048841
     },
     "2026": {
-      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.8.0/MV_Addin-1.8.0-R26.zip",
-      "sha256": "585eaca7fac9945f08496c68b2ef0d87484cd7696d8b8a0f990fd84df4cc8fbe",
-      "size": 7814790
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.9.0/MV_Addin-1.9.0-R26.zip",
+      "sha256": "b7de589eed65d3a07c63ec173b55f47d7408febe7f6ead29642795e2a9ad4733",
+      "size": 8051941
     },
     "2027": {
-      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.8.0/MV_Addin-1.8.0-R27.zip",
-      "sha256": "b20e2d7c68eba6252b0b2876892b95e8fc784d4f66a0dd68a0bc6e7e0f2da1e5",
-      "size": 7710353
+      "url": "https://github.com/BuiQuangHuy16/MV_Addin-releases/releases/download/v1.9.0/MV_Addin-1.9.0-R27.zip",
+      "sha256": "3f7631275bab2425946a9bebe47d28d6db93e618fd390225c800da4e6ec976fd",
+      "size": 7944208
     }
   }
 }
